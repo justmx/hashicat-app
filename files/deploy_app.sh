@@ -13,7 +13,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Woof World!</h2></center>
-  Welcome to ${PREFIX}'s app. Hello Doggy!!
+  Welcome to ${PREFIX}'s app. Let's explore the world, Hello Doggy!!
   <!-- END -->
 
   </div>
